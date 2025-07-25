@@ -8,8 +8,8 @@ public class IncrementDecrement {
         System.out.println("After Pre incrementing: "+ ++a); //pre increment
         System.out.println("After post incrementing :"+ a++); //post increment
 
-        System.out.println("After pre Decrementing: "+ ++b); //pre decrement
-        System.out.println("after post Decrementing: " + b++); //post decrement
+        System.out.println("After pre Decrementing: "+ --b); //pre decrement
+        System.out.println("after post Decrementing: " + b--); //post decrement
 
     } 
 
